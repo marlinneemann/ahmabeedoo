@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eechaemee.kevincantu.org/sitemap.xml
